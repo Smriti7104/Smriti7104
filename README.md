@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://github.com/your-github">GitHub</a> •
+  <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/smriti-s-475434259/)">LinkedIn</a> •
+  <a href="[https://github.com/your-github](https://github.com/Smriti7104/Smriti7104)">GitHub</a> •
   <a href="mailto:smritisingh7104@gmail.com">Email</a>
 </p>
 
